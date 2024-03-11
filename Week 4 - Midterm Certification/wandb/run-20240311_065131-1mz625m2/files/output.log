@@ -1,0 +1,5 @@
+[34m[1mwandb[39m[22m: Streaming LangChain activity to W&B at https://wandb.ai/waqasjavedkhan/AIE-Week%204%20-%20Midterm%20Certification/runs/1mz625m2
+[34m[1mwandb[39m[22m: `WandbTracer` is currently in beta.
+[34m[1mwandb[39m[22m: Please report any issues to https://github.com/wandb/wandb/issues with the tag `langchain`.
+[34m[1mwandb[39m[22m: [33mWARNING[39m WARNING: Failed to serialize model: 'int' object is not subscriptable
+ Debora Shoquist is the Executive Vice President of Operations at NVIDIA and is 69 years old.
