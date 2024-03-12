@@ -1,0 +1,151 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-03-11T23:46:21.263113",
+    "startedAt": "2024-03-11T23:46:16.788547",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "run",
+        "app.py",
+        "-w"
+    ],
+    "state": "running",
+    "program": "/home/sysadmin/anaconda3/envs/llmops-course/bin/chainlit",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/waqasjavedkhan/AIE.git",
+        "commit": "8ddec3d2c11b2257c860917467a2295b16c1a5a4"
+    },
+    "email": "solutiondesignandintegration@gmail.com",
+    "root": "/home/sysadmin/llmops-course/AIE",
+    "host": "WAQAS-D15-W11P",
+    "username": "sysadmin",
+    "executable": "/home/sysadmin/anaconda3/envs/llmops-course/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2918.400999999999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.401,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 21.262229919433594
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.467239379882812
+    }
+}
