@@ -1,0 +1,27 @@
+2024-03-14 22:39:38,693 INFO    MainThread:14941 [wandb_setup.py:_flush():76] Current SDK version is 0.16.4
+2024-03-14 22:39:38,693 INFO    MainThread:14941 [wandb_setup.py:_flush():76] Configure stats pid to 14941
+2024-03-14 22:39:38,693 INFO    MainThread:14941 [wandb_setup.py:_flush():76] Loading settings from /home/sysadmin/.config/wandb/settings
+2024-03-14 22:39:38,693 INFO    MainThread:14941 [wandb_setup.py:_flush():76] Loading settings from /home/sysadmin/llmops-course/AIE/Final-Project/wandb/settings
+2024-03-14 22:39:38,693 INFO    MainThread:14941 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'api_key': '***REDACTED***'}
+2024-03-14 22:39:38,693 INFO    MainThread:14941 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-03-14 22:39:38,693 WARNING MainThread:14941 [wandb_setup.py:_flush():76] Could not save program above cwd: /home/sysadmin/anaconda3/envs/llmops-course/bin/chainlit
+2024-03-14 22:39:38,694 INFO    MainThread:14941 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': None, 'program_abspath': '/home/sysadmin/anaconda3/envs/llmops-course/bin/chainlit', 'program': '/home/sysadmin/anaconda3/envs/llmops-course/bin/chainlit'}
+2024-03-14 22:39:38,694 INFO    MainThread:14941 [wandb_init.py:_log_setup():526] Logging user logs to /home/sysadmin/llmops-course/AIE/Final-Project/wandb/run-20240314_223938-3qqg29i5/logs/debug.log
+2024-03-14 22:39:38,694 INFO    MainThread:14941 [wandb_init.py:_log_setup():527] Logging internal logs to /home/sysadmin/llmops-course/AIE/Final-Project/wandb/run-20240314_223938-3qqg29i5/logs/debug-internal.log
+2024-03-14 22:39:38,694 INFO    MainThread:14941 [wandb_init.py:init():566] calling init triggers
+2024-03-14 22:39:38,694 INFO    MainThread:14941 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {}
+2024-03-14 22:39:38,694 INFO    MainThread:14941 [wandb_init.py:init():616] starting backend
+2024-03-14 22:39:38,694 INFO    MainThread:14941 [wandb_init.py:init():620] setting up manager
+2024-03-14 22:39:38,694 INFO    MainThread:14941 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-03-14 22:39:38,695 INFO    MainThread:14941 [wandb_init.py:init():628] backend started and connected
+2024-03-14 22:39:38,696 INFO    MainThread:14941 [wandb_init.py:init():720] updated telemetry
+2024-03-14 22:39:38,698 INFO    MainThread:14941 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-03-14 22:39:39,428 INFO    MainThread:14941 [wandb_run.py:_on_init():2262] communicating current version
+2024-03-14 22:39:39,645 INFO    MainThread:14941 [wandb_run.py:_on_init():2271] got version response 
+2024-03-14 22:39:39,646 INFO    MainThread:14941 [wandb_init.py:init():804] starting run threads in backend
+2024-03-14 22:39:45,029 INFO    MainThread:14941 [wandb_run.py:_console_start():2241] atexit reg
+2024-03-14 22:39:45,030 INFO    MainThread:14941 [wandb_run.py:_redirect():2096] redirect: wrap_raw
+2024-03-14 22:39:45,030 INFO    MainThread:14941 [wandb_run.py:_redirect():2161] Wrapping output streams.
+2024-03-14 22:39:45,030 INFO    MainThread:14941 [wandb_run.py:_redirect():2186] Redirects installed.
+2024-03-14 22:39:45,030 INFO    MainThread:14941 [wandb_init.py:init():847] run started, returning control to user process

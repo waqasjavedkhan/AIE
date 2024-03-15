@@ -1,0 +1,18 @@
+chainlit==0.7.700
+cohere==4.37
+faiss-cpu==1.8.0
+python-dotenv==1.0.0
+pymupdf==1.23.26
+langchain==0.1.11
+langchain-community==0.0.27
+langchain-core==0.1.30
+langchain-openai==0.0.8
+langchain-text-splitters==0.0.1
+wandb==0.16.4
+
+!pip install pypdf
+!pip install langchain
+!pip install langchain_openai
+!pip install sqlite3
+!pip install faiss-cpu
+!pip install faiss-gpu
